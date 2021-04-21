@@ -2,3 +2,4 @@
 
 * Dr. Doom
 * Venom
+* Capitán America
